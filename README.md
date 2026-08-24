@@ -31,18 +31,6 @@
 
 </div>
 
-<div align="center">
-    <h1>
-        📊 GitHub Stats
-    </h1>
-</div>
 
-<div align="center">
- <div>
-   <a href="https://github.com/Ovat1o">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ovat1o&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=github_dark"/>
-</div>
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000787&height=120&section=footer"/>
