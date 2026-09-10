@@ -1,11 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000787&height=120&section=header"/>
-<div align="center">   
-<h1 align="center">Welcome to my profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
-  <a href ="mailto:otavioslb2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otaviosleao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Ovat1o" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
-<br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:011c85,100:0069cc&height=190&section=header&text=Otávio+Leão&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Gabriel Garabedian"/>
+
+<br/>
 
 #### - **`👨‍💻 FullStack Developer.`**
 
@@ -15,22 +12,34 @@
 
 #### - **`🚀 Seeking more knowledge and challenges in the technology area.`**
 <br>
-<div align="center">
-    <h1>
-        🔧 Tools
-    </h1>
-</div>
 
-<div align="center">
+## 🛠️ Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<br>
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,mysql,html,css,js&theme=dark" alt="Java, Spring Boot, Python, MySQL, HTML, CSS, JavaScript"/>
+</p>
 
-</div>
+## 🧰 Ferramentas & Ambiente
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="VS Code, Git, GitHub"/>
+</p>
 
+## ⚙️ DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,terraform,jenkins,aws&theme=dark" alt="Linux, Bash, Docker, Kubernetes, Ansible, Terraform, Jenkins, AWS"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Gabriel-Garabedian&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Estatísticas do GitHub"/>
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-Garabedian&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gabriel-Garabedian&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de contribuições"/>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000787&height=120&section=footer"/>
