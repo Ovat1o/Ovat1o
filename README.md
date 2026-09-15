@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Otávio-Leão&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Estatísticas do GitHub"/>
-  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Otávio-Leão&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Ovat1o&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Estatísticas do GitHub"/>
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ovat1o&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
