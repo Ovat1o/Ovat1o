@@ -42,4 +42,6 @@
   <img src="https://streak-stats.demolab.com/?user=Gabriel-Garabedian&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de contribuições"/>
 </p>
 
+![snake gif](https://raw.githubusercontent.com/PepeHenrque/PepeHenrque/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000787&height=120&section=footer"/>
