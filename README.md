@@ -4,13 +4,13 @@
 
 <br/>
 
-#### - **`👨‍💻 FullStack Developer.`**
+#### - **`🔹 FullStack Developer.`**
 
-#### - **`📚 Software Analysis and Development Student.`**
+#### - **`🔹 Software Analysis and Development Student.`**
 
-#### - **`🌱 Learning about Javascript, HTML and CSS.`**
+#### - **`🔹 Learning about Javascript, HTML and CSS.`**
 
-#### - **`🚀 Seeking more knowledge and challenges in the technology area.`**
+#### - **`🔹 Seeking more knowledge and challenges in the technology area.`**
 <br>
 
 ## 🛠️ Tecnologias
@@ -42,6 +42,10 @@
   <img src="https://streak-stats.demolab.com/?user=Gabriel-Garabedian&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de contribuições"/>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/PepeHenrque/PepeHenrque/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ovat1o/Ovat1o/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ovat1o/Ovat1o/output/github-snake.svg" />
+  <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/Ovat1o/Ovat1o/output/github-snake.svg" width="100%"/>
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000787&height=120&section=footer"/>
