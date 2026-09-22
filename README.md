@@ -4,13 +4,13 @@
 
 <br/>
 
-#### - **`🔹 FullStack Developer.`**
+#### **`🔹 FullStack Developer.`**
 
-#### - **`🔹 Software Analysis and Development Student.`**
+#### **`🔹 Software Analysis and Development Student.`**
 
-#### - **`🔹 Learning about Javascript, HTML and CSS.`**
+#### **`🔹 Learning about Javascript, HTML and CSS.`**
 
-#### - **`🔹 Seeking more knowledge and challenges in the technology area.`**
+#### **`🔹 Seeking more knowledge and challenges in the technology area.`**
 <br>
 
 ## 🛠️ Tecnologias
