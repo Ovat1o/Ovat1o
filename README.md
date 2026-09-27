@@ -8,7 +8,7 @@
 
 #### **`🔹 Software Analysis and Development Student.`**
 
-#### **`🔹 Learning about Javascript, HTML and CSS.`**
+#### **`🔹 Learning about C and Docker.`**
 
 #### **`🔹 Seeking more knowledge and challenges in the technology area.`**
 <br>
